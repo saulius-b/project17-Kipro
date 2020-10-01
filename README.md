@@ -1,1 +1,1 @@
-A Bootstrap template, tailored a clients needs
+A Bootstrap template, tailored to a clients needs
